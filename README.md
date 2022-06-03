@@ -6,7 +6,7 @@
 
 - Usage
   - chrome cache view dmg
-    <img width="911" alt="chrome_cache_view" src="https://user-images.githubusercontent.com/5550316/170878097-76c17d8a-a9af-471d-93e7-b2503f76b19a.png">
+    <img width="633" alt="image" src="https://user-images.githubusercontent.com/5550316/171787644-f61b2644-416d-49d8-9b5f-f6f33cd3959f.png">
  
 
   - Open cache dialog
