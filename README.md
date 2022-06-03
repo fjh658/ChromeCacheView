@@ -6,9 +6,9 @@
 
 - Usage
   - chrome cache view dmg
-    <img width="633" alt="image" src="https://user-images.githubusercontent.com/5550316/171787644-f61b2644-416d-49d8-9b5f-f6f33cd3959f.png">
- 
+   ![image](https://user-images.githubusercontent.com/5550316/171787682-53606e44-2cf8-4c42-adb8-5f650c163db1.png)
 
+ 
   - Open cache dialog
 
    ![image](https://user-images.githubusercontent.com/5550316/170872979-3aaa8ffd-dc77-478d-b37a-0a0c1e5ee573.png)
