@@ -5,7 +5,10 @@
 - Used to diagnose chrome, cef ([Chromium Embedded Framework](https://github.com/chromiumembedded)) cache related issues
 
 - Usage
+  - chrome cache view dmg
+   ![image](https://user-images.githubusercontent.com/5550316/171787682-53606e44-2cf8-4c42-adb8-5f650c163db1.png)
 
+ 
   - Open cache dialog
 
    ![image](https://user-images.githubusercontent.com/5550316/170872979-3aaa8ffd-dc77-478d-b37a-0a0c1e5ee573.png)
