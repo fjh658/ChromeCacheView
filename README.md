@@ -7,6 +7,10 @@
 - Usage
   - chrome cache view dmg
    ![image](https://user-images.githubusercontent.com/5550316/171787682-53606e44-2cf8-4c42-adb8-5f650c163db1.png)
+  - wineskins remove quarantine
+  ```
+   xattr -rd com.apple.quarantine /Applications/ChromeCacheView.app
+  ```
 
  
   - Open cache dialog
